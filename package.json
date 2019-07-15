@@ -20,7 +20,7 @@
     "morgan": "^1.7.0",
     "node-google-calendar": "^1.1.0",
     "nodemon": "^1.12.1",
-    "passport": "^0.3.2",
+    "passport": "^0.4.0",
     "passport-http": "^0.3.0",
     "passport-jwt": "^2.2.1"
   },
